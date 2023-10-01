@@ -82,7 +82,7 @@
     "npm-run-all": "^4.0.2",
     "nsp-advisories-api": "^2.0.2",
     "once": "^1.4.0",
-    "postcss-cli": "^4.0.0",
+    "postcss-cli": "^8.0.0",
     "prop-types": "^15.5.10",
     "rc": "^1.1.5",
     "react": "^15.0.2",
